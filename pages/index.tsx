@@ -12,7 +12,7 @@ const Home: NextPage = () => {
       </Head>
 
       <main className=''>
-        <div className='text-2xl text-red-200'>This is my home page</div>
+        <div className='text-2xl text-red-200'>Lets change this line and see whats is happening</div>
       </main>
 
     </div>
